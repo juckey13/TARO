@@ -1,7 +1,6 @@
 ---
 layout: download
 title: download
-nav_order: 2
 ---
 
 # DOWNLOAD page
