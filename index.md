@@ -9,8 +9,9 @@ layout: home
 TARO is singer for [OPENUTAU]. Him was voiced by [juckhey]
 
 ---
-title: DOWNLOAD
-layout: DOWNLOAD
+title: UI Components
+nav_order: 3
+has_toc: false
 ---
 
 # DOWNLOAD page
