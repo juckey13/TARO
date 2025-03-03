@@ -1,6 +1,6 @@
 ---
+title: Download
 layout: home
-title: download
 ---
 
 # DOWNLOAD page
